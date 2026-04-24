@@ -8,7 +8,7 @@
 
 `corvo_front` è la Single Page Application (SPA) del sistema Corvo, sviluppata con **Angular 19** e **Angular Material**. Permette agli operatori di visualizzare in tempo reale lo stato degli host monitorati, gestire le policy di auditing Lynis e amministrare gli utenti del sistema.
 
-> **Nota:** Questo repository contiene esclusivamente il codice del frontend. Gli altri componenti si trovano nei repository [`corvo_back`](#) e [`corvo_agent`](#).
+> **Nota:** Questo repository contiene esclusivamente il codice del frontend. Gli altri componenti si trovano nei repository [`corvo_back`](https://github.com/MariusBerinde/corvo_server.git) e [`corvo_agent`](https://github.com/MariusBerinde/agent.git).
 
 ---
 
