@@ -1,6 +1,6 @@
 # 🐦‍⬛ Corvo — Frontend
 
-> Componente di interfaccia utente del sistema [Corvo](https://github.com/), sviluppato come progetto di tesi magistrale in collaborazione con **Sinelec S.p.A.**
+> Componente di interfaccia utente del sistema [Corvo]( https://github.com/MariusBerinde/corvo.git), sviluppato come progetto di tesi magistrale in collaborazione con **Sinelec S.p.A.**
 
 ---
 
